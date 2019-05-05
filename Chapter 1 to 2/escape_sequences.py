@@ -1,0 +1,5 @@
+print("Zees\"han Ali Khan")
+print("Zees\ahan Ali Khan")
+print("Zees\nhan Ali Khan")
+print("Zees\than Ali Khan")
+print("Zees\\han Ali Khan")
